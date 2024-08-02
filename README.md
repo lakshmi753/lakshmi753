@@ -10,7 +10,7 @@ I've been learning Frontend Development since last year. Currently I'm actively 
 * 🖥️  See my portfolio at [My Portfolio](http://my753portfolio.netlify.app/)
 * ✉️  You can contact me at [lakshmi753sahu@gmail.com](mailto:lakshmi753sahu@gmail.com)
 * 🧠  I'm learning Advance React
-* 🤝  I'm open to collaborating on Frontend Projects
+* 🤝  I'm open to collaborate on Frontend Projects
 * ⚡  I'm a Animation lover...
 
 ### Skills

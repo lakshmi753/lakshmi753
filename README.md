@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been learning Frontend Development since last year. Currently I'm actively applying for Frontend developer role in many companies....I've worked upon many different projects and same are present in my Portfolio and Github also some of them are also uploaded in Linkedin......do have a look.
+👋 Hi, I’m Lakshmi Sahu, a Frontend Developer with a background in Political Science and a passion for web development. After teaching and preparing for competitive exams, I revisited my interest in tech from high school and pursued frontend skills in HTML, CSS, JavaScript, React, Redux, and Tailwind CSS. I enjoy solving real-world problems, exploring new technologies, and building projects that challenge and inspire me to grow in web development.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://my753portfolio.netlify.app/)
